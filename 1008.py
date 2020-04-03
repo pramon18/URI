@@ -1,10 +1,9 @@
-# URI [1006]
+# URI [1008]
 # Pegar as três variáveis
 # Se utilizar python 2.x deve-se trocar o input() por raw_input()
-x = float(input())
+x = int(input())
 y = float(input())
 z = float(input())
 
-media = ((x * 2.0) + (y * 3.0) + (z * 5)) / 10.0
-
-print("MEDIA = {0:.1f}".format(media))
+print("NUMBER = {0}".format(x))
+print("SALARY = U$ {0:.2f}".format(y * z))

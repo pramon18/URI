@@ -1,4 +1,4 @@
-# URI [1004]
+# URI [1005]
 # Pegar as duas variáveis
 # Se utilizar python 2.x deve-se trocar o input() por raw_input()
 x = float(input())
