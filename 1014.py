@@ -1,5 +1,5 @@
 # URI [1014]
-# Pegar as três variáveis
+# Pegar as duas variáveis
 # Se utilizar python 2.x deve-se trocar o input() por raw_input()
 
 distancia_total = float(input())
